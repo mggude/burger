@@ -1,0 +1,27 @@
+li {
+  padding: 5px;
+  margin: 5px;
+  background: #bfb9d8;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.create-update-form {
+  padding: 5px;
+  margin: 5px;
+  background: aqua;
+}
+
+.form-group {
+  margin-bottom: 5px;
+}
+
+.jumbotron {
+  background-image: url('../burger.png');
+}
+
+h1, p {
+  color: white;
+}
