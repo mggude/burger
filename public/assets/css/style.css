@@ -2,6 +2,7 @@ li {
   padding: 5px;
   margin: 5px;
   background: #e15e06;
+  color: white;
 }
 
 .label {
@@ -21,6 +22,7 @@ li {
 .jumbotron { 
   background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('../flowers.jpg');
   background-size: cover;
+  box-shadow: 0 3px 6px #888, 0 3px 6px #999;
 }
 
 h1, p {
