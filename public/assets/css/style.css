@@ -4,6 +4,7 @@ li {
   background: #e15e06;
   color: white;
   list-style-type: none;
+  box-shadow: 0 3px 6px #888, 0 3px 6px #999;
 }
 
 .label {
@@ -28,4 +29,8 @@ li {
 
 h1, p {
   color: white;
+}
+
+footer {
+  padding: 10px 0px 25px 0px;
 }
