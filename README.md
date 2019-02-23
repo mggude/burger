@@ -1,3 +1,3 @@
-# Burger
+# To Do List
 
-A burger logger with MySQL, Node, Express, Handlebars and a homemade ORM
+A To Do List logger with MySQL, Node, Express, Handlebars and a homemade ORM

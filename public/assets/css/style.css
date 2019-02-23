@@ -18,8 +18,8 @@ li {
   margin-bottom: 5px;
 }
 
-.jumbotron {
-  background-image: url('../burger.png');
+.jumbotron { 
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../flowers.jpg');
 }
 
 h1, p {
