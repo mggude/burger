@@ -39,3 +39,7 @@ footer {
 button {
   border-radius: 5px;
 }
+
+.btn-outline-dark {
+  justify-content: flex-end;
+}
