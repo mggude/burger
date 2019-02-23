@@ -34,3 +34,7 @@ h1, p {
 footer {
   padding: 10px 0px 25px 0px;
 }
+
+button {
+  border-radius: 5px;
+}
