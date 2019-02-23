@@ -2,6 +2,9 @@ li {
   padding: 5px;
   margin: 5px;
   background: #e15e06;
+  color: white;
+  list-style-type: none;
+  padding: 0;
 }
 
 .label {
